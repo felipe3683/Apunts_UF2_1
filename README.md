@@ -1,5 +1,3 @@
-# Apunts_UF2_1
-
 ## Entorns de desenvolupament
 ### Objectius de les proves
 - Comprovar si el software no fa el que ha de fer
@@ -82,4 +80,26 @@ Es distingueixen en dos tipus:
 ### cas de prova
 - Es tracta d'una entrada conocida i una sortida esperada, com exemple una suma sapiguent el resultat.
 
+### Integració
+#### Formes d'integració
+- Integració de Big bang
+- Integració Descendent
+- Integració Ascendent
+- Integració Continua (CI)
 
+#### Servidors d'integració continua
+- **Jenkins**
+- **Bamboo**
+- **TravisCI**
+- **CircleCI**
+
+#### Cobertura del codi
+Mesura que indica el porcentatge de codi que ha sigut executat durant les proves.
+El recomanable es que sea el més aprop a 100%.
+
+### Qualitat
+Per aconseguir la medició de qualitat del producte, fa falta realitzar proves.
+
+#### Qualitat del procés/Producte QA/QC
+**QA: Quality Assurance:** són el conjunt d'activitats per garantir la qualitat en els processos mitjançant es desenvolupen els productes.
+**QC: Quality control:** Les activitats son centrades en identificar els defectes dels productes ja produits.
