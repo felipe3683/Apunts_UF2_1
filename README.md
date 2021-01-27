@@ -1,8 +1,10 @@
 ## Entorns de desenvolupament
 ### Objectius de les proves
+Hi ha diferents frameworks per fer proves
+Els objectius de les proves són:
 - Comprovar si el software no fa el que **ha de fer**
 - Comprovar si el software fa el que **no ha de fer**
-Hi ha diferents frameworks per fer proves
+
 
 ### Framework
 - Esta composat per:
