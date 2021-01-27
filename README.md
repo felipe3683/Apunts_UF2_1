@@ -1,7 +1,7 @@
 ## Entorns de desenvolupament
 ### Objectius de les proves
-- Comprovar si el software no fa el que ha de fer
-- Comprovar si el software fa el que no ha de fer
+- Comprovar si el software no fa el que **ha de fer**
+- Comprovar si el software fa el que **no ha de fer**
 Hi ha diferents frameworks per fer proves.
 
 ### Framework
@@ -74,7 +74,7 @@ Es distingueixen en dos tipus:
 #### Frameworks per proves
 - **Java:** jUnit, TestNG
 - **C++:** CppUnit, Google Test
-- **PHP:**PHPUnit
+- **PHP:** PHPUnit
 - **Javascript:** Mocha
 
 ### cas de prova
@@ -103,3 +103,29 @@ Per aconseguir la medició de qualitat del producte, fa falta realitzar proves.
 #### Qualitat del procés/Producte QA/QC
 **QA: Quality Assurance:** són el conjunt d'activitats per garantir la qualitat en els processos mitjançant es desenvolupen els productes.
 **QC: Quality control:** Les activitats son centrades en identificar els defectes dels productes ja produits.
+
+### Factores de calidad
+- **Model de qualitat de McCall** defineix 11 factors de qualitat.
+- S'agrupen 3 àmbits:
+  - Operació del producte
+  - Revisió del producte
+  - Transició del producte
+
+![Model McCall](https://i.pinimg.com/474x/c6/be/96/c6be96491c4f3072a3a68934ebf66312.jpg)
+
+#### Operació del producte
+- **Correció**
+- **Fiabilitat**
+- **Eficiència**
+- **Seguretat**
+- **Facilitat d'ús**
+
+#### Revisió del producte
+- **Mantenibilitat**
+- **Flexibilitat**
+- **Facilitat d'ús**
+
+#### Transició del producte
+- **Portabilitat**
+- **Reusabilitat**
+- **Interoperativitat**
