@@ -2,7 +2,7 @@
 ### Objectius de les proves
 - Comprovar si el software no fa el que **ha de fer**
 - Comprovar si el software fa el que **no ha de fer**
-Hi ha diferents frameworks per fer proves.
+Hi ha diferents frameworks per fer proves
 
 ### Framework
 - Esta composat per:
